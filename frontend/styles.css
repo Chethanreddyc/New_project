@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+p{
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: center;
+}
